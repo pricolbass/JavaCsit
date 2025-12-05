@@ -2,8 +2,8 @@
 
 ## Задача 12: Практическая часть
 
-- Познакомьтесь с решением из примера лекций [Практическая часть](..%2Flections%2FLection5_Exceptions_IO_NIO%2F%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%87%D0%B0%D1%81%D1%82%D1%8C.md)
-- Познакомьтесь Files.walkFileTree() из материалов лекций [Введение в NIO](..%2Flections%2FLection5_Exceptions_IO_NIO%2F%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20NIO.md)
+- Познакомьтесь с решением из примера лекций [Практическая часть](/lections/nio_practice.md)
+- Познакомьтесь Files.walkFileTree() из материалов лекций [Введение в NIO](/lections/nio.md)
 
 ### Задание
 
